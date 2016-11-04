@@ -1,0 +1,127 @@
+[ 2016-10-12T17:13:22+08:00 ] 127.0.0.1 /oa/
+ERR: 非法操作:index
+
+[ 2016-10-12T18:07:35+08:00 ] 127.0.0.1 /oa/css/base.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-12T18:07:35+08:00 ] 127.0.0.1 /oa/css/info-mgt.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-12T18:07:35+08:00 ] 127.0.0.1 /oa/js/jquery.pagination.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:07:35+08:00 ] 127.0.0.1 /oa/css/WdatePicker.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-12T18:07:35+08:00 ] 127.0.0.1 /oa/js/common.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:07:35+08:00 ] 127.0.0.1 /oa/js/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:07:35+08:00 ] 127.0.0.1 /oa/js/jquery.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:07:35+08:00 ] 127.0.0.1 /oa/js/common.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:07:35+08:00 ] 127.0.0.1 /oa/js/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:07:35+08:00 ] 127.0.0.1 /oa/js/jquery.pagination.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:04+08:00 ] 127.0.0.1 /oa/css/base.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-12T18:09:05+08:00 ] 127.0.0.1 /oa/css/WdatePicker.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-12T18:09:05+08:00 ] 127.0.0.1 /oa/css/info-mgt.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-12T18:09:05+08:00 ] 127.0.0.1 /oa/js/jquery.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:05+08:00 ] 127.0.0.1 /oa/js/common.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:05+08:00 ] 127.0.0.1 /oa/js/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:05+08:00 ] 127.0.0.1 /oa/js/jquery.pagination.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:07+08:00 ] 127.0.0.1 /oa/css/WdatePicker.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-12T18:09:07+08:00 ] 127.0.0.1 /oa/js/jquery.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:07+08:00 ] 127.0.0.1 /oa/js/common.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:07+08:00 ] 127.0.0.1 /oa/css/base.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-12T18:09:07+08:00 ] 127.0.0.1 /oa/js/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:07+08:00 ] 127.0.0.1 /oa/js/jquery.pagination.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:07+08:00 ] 127.0.0.1 /oa/css/info-mgt.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-12T18:09:27+08:00 ] 127.0.0.1 /oa/js/common.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:27+08:00 ] 127.0.0.1 /oa/css/base.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-12T18:09:27+08:00 ] 127.0.0.1 /oa/js/jquery.pagination.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:27+08:00 ] 127.0.0.1 /oa/css/WdatePicker.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-12T18:09:27+08:00 ] 127.0.0.1 /oa/js/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:27+08:00 ] 127.0.0.1 /oa/js/jquery.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:27+08:00 ] 127.0.0.1 /oa/css/info-mgt.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-12T18:09:27+08:00 ] 127.0.0.1 /oa/js/common.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:27+08:00 ] 127.0.0.1 /oa/js/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:09:27+08:00 ] 127.0.0.1 /oa/js/jquery.pagination.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-12T18:30:34+08:00 ] 127.0.0.1 /oa/User/add
+ERR: Think\Model:fileds方法不存在！
+
+[ 2016-10-12T18:31:02+08:00 ] 127.0.0.1 /oa/User/add
+ERR: Think\Model:fields方法不存在！
+
+[ 2016-10-12T18:32:06+08:00 ] 127.0.0.1 /oa/User/add
+ERR: Think\Model:fields方法不存在！
+
+[ 2016-10-12T20:30:14+08:00 ] 127.0.0.1 /oa/Dept/addOk.html
+ERR: 1366:Incorrect integer value: '' for column 'dept_sort' at row 1
+ [ SQL语句 ] : INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`,`dept_ctime`) VALUES ('','0','','','2016-10-12')
+
+[ 2016-10-12T23:07:37+08:00 ] 127.0.0.1 /oa/Main/info-reg.html
+ERR: 非法操作:info-reg
+
+[ 2016-10-12T23:07:46+08:00 ] 127.0.0.1 /oa/Main/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2016-10-12T23:07:48+08:00 ] 127.0.0.1 /oa/Main/info-reg.html
+ERR: 非法操作:info-reg
+

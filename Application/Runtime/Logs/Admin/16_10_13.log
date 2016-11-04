@@ -1,0 +1,626 @@
+[ 2016-10-13T12:28:31+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.2931484546753703
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0002s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:28:34+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.2271947132958465
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:28:35+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.4121910385766895
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0002s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:28:43+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.6154032658355794
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0001s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:30:05+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.37966867068771004
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0001s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:30:07+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.011340260204006025
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0001s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:30:08+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.020602635612188447
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0002s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:30:08+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.014851403022378196
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001327s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0001s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:30:15+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.5484623902967795
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0002s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:30:16+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.11819330762275737
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0002s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:30:17+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.5855978048755219
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0002s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:30:19+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.02282710965865309
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0002s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:30:22+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.08086501601390794
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0002s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:30:25+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.2265252312839967
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0001s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:33:00+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.8903071798633463
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002218s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0001s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:33:02+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.26754751746686656
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0001s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:33:03+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.44201473596191787
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0001s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:33:03+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.420131476993713
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `oa_user` LIMIT 1   [ RunTime:0.0001s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:35:32+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.9826608223259904
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+
+[ 2016-10-13T12:35:49+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.7752360924334816
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:35:53+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.9724694302742678
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001921s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:35:53+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.5068199417589396
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:35:54+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.6962985437849122
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:35:55+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.9913507807192364
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:36:00+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.7870041107006783
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:36:01+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.1495552062536808
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0008s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:36:02+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.3876928791876567
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:37:27+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.09628634436710715
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+
+[ 2016-10-13T12:38:37+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.8366925586801176
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0005s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:38:39+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.6080299477342311
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:38:40+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.940849608850331
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0009s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:38:40+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.32748925401886464
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:38:41+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.9612692705275889
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:38:42+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.04503406827182965
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:39:03+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.9649490222283557
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:39:06+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.19784500911718184
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:39:07+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.3893677066214658
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0005s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:39:08+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.9627587981729155
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:39:09+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.6435665997311659
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:39:12+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.28273058808382245
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:39:13+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.7266887378147805
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:39:13+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.5011828046645901
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:41:20+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.6378736885500927
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:41:21+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.29197207740860565
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0005s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:41:22+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.9161128136461106
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0007s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:41:22+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.9403456570260532
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:41:23+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.36674199208439995
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:41:23+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.7865679097982666
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:41:42+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.5410701228371717
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:41:44+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.38600508414565937
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:41:44+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.9336273747526254
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:41:45+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.20633330535593442
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0004s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:41:46+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.5792636220453525
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:41:47+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.07928887772174908
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:42:37+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.509722216864471
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0008s ]
+
+[ 2016-10-13T12:43:05+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.5071417134962805
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+
+[ 2016-10-13T12:43:22+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.9040768777102082
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:44:16+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.8756544301835694
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T12:44:17+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.5938961130941377
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+ERR: 模板不存在:./Application/Admin/View/User/getContent.html
+
+[ 2016-10-13T13:06:30+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.16919311693292693
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+
+[ 2016-10-13T13:09:11+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.39698268700779815
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000662s ]
+
+[ 2016-10-13T13:11:42+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.7087505663284092
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005940s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-10-13T13:12:09+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.6514290958578782
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006021s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-10-13T13:12:51+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.49799743027269183
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001826s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000466s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001613s ]
+
+[ 2016-10-13T13:12:52+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.4085809887589532
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005215s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2016-10-13T13:12:59+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.683251273555807
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005019s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-10-13T13:13:00+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.024837126979126767
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-10-13T13:13:37+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.014647736306192427
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008807s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-10-13T13:13:38+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=1&_=0.37813825482036667
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 0,2   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-10-13T19:15:32+08:00 ] 127.0.0.1 /oa/Public/Common//highcharts/highcharts.js
+ERR: 无法加载控制器:Public
+
+[ 2016-10-13T19:15:32+08:00 ] 127.0.0.1 /oa/Public/Common//highcharts/modules/exporting.js
+ERR: 无法加载控制器:Public
+
+[ 2016-10-13T19:15:33+08:00 ] 127.0.0.1 /oa/Public/Common//highcharts/highcharts.js
+ERR: 无法加载控制器:Public
+
+[ 2016-10-13T19:15:33+08:00 ] 127.0.0.1 /oa/Public/Common//highcharts/modules/exporting.js
+ERR: 无法加载控制器:Public
+
+[ 2016-10-13T19:35:06+08:00 ] 127.0.0.1 /oa/Public/Common/highcharts/highcharts.js
+ERR: 无法加载控制器:Public
+
+[ 2016-10-13T19:35:06+08:00 ] 127.0.0.1 /oa/Public/Common/highcharts/modules/exporting.js
+ERR: 无法加载控制器:Public
+
+[ 2016-10-13T19:35:06+08:00 ] 127.0.0.1 /oa/Public/Common/highcharts/highcharts.js
+ERR: 无法加载控制器:Public
+
+[ 2016-10-13T19:35:06+08:00 ] 127.0.0.1 /oa/Public/Common/highcharts/modules/exporting.js
+ERR: 无法加载控制器:Public
+
+[ 2016-10-13T20:29:35+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=2&_=0.6803518722580129
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 2,2   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006479s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006539s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+

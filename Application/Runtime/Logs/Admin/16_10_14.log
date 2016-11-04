@@ -1,0 +1,49 @@
+[ 2016-10-14T09:54:13+08:00 ] 127.0.0.1 /oa/Main/login
+ERR: 非法操作:login
+
+[ 2016-10-14T10:10:00+08:00 ] 127.0.0.1 /oa/index/index.html
+ERR: 非法操作:index
+
+[ 2016-10-14T10:11:39+08:00 ] 127.0.0.1 /oa/index/index.html
+ERR: 非法操作:index
+
+[ 2016-10-14T10:12:28+08:00 ] 127.0.0.1 /oa/index/index.html
+ERR: 非法操作:index
+
+[ 2016-10-14T10:14:00+08:00 ] 127.0.0.1 /oa/index/index.html
+ERR: 非法操作:index
+
+[ 2016-10-14T10:16:18+08:00 ] 127.0.0.1 /oa/index/index.html
+ERR: 非法操作:index
+
+[ 2016-10-14T10:21:27+08:00 ] 127.0.0.1 /oa/index/index.html
+ERR: 非法操作:index
+
+[ 2016-10-14T10:21:45+08:00 ] 127.0.0.1 /oa/index/index.html
+ERR: 非法操作:index
+
+[ 2016-10-14T10:23:00+08:00 ] 127.0.0.1 /oa/index/index.html
+ERR: 非法操作:index
+
+[ 2016-10-14T10:31:55+08:00 ] 127.0.0.1 /oa/Index/checkLogin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''liubei ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `oa_user` WHERE ( user_name='liubei ) LIMIT 1  
+
+[ 2016-10-14T10:37:38+08:00 ] 127.0.0.1 /oa/User/getContent.html?page=3&_=0.5323081472598993
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+SQL: SELECT u.*,d.dept_id,d.dept_name FROM oa_user u left join oa_dept d on u.user_deptid = d.dept_id  LIMIT 4,2   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000524s ]
+

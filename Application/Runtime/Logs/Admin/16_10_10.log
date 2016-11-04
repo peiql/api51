@@ -1,0 +1,18 @@
+[ 2016-10-10T16:40:26+08:00 ] 127.0.0.1 /oa/
+ERR: 非法操作:index
+
+[ 2016-10-10T16:41:22+08:00 ] 127.0.0.1 /oa/Dept/index
+ERR: 非法操作:index
+
+[ 2016-10-10T16:41:43+08:00 ] 127.0.0.1 /oa/Index/index
+ERR: 非法操作:index
+
+[ 2016-10-10T20:01:36+08:00 ] 127.0.0.1 /oa/Dept/dshow.html?dept_id=1
+ERR: XML标签语法错误 : name="dlist" item="vo" item="{$dshow.dept_id}"
+
+[ 2016-10-10T20:33:27+08:00 ] 127.0.0.1 /oa/Dept/dshow.html?dept_id=1
+ERR: XML标签语法错误 : name="vo:dept_id" value=${$dshow.dept_id}
+
+[ 2016-10-10T21:30:14+08:00 ] 127.0.0.1 /oa/Dept/dshow.html?dept_id=3
+ERR: XML标签语法错误 : name="vo:dept_id" value=3
+

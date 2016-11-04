@@ -1,0 +1,124 @@
+[ 2016-10-08T08:23:13+08:00 ] 127.0.0.1 /oa/
+ERR: 非法操作:index
+
+[ 2016-10-08T08:25:13+08:00 ] 127.0.0.1 /oa/index.php/
+ERR: 非法操作:index
+
+[ 2016-10-08T18:00:04+08:00 ] 127.0.0.1 /oa/Dept/list
+ERR: 无法加载控制器:Dept
+
+[ 2016-10-08T18:11:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-10-08T18:11:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/css/info-mgt.css
+ERR: 非法操作:css
+
+[ 2016-10-08T18:11:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:11:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/jquery.pagination.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:11:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:11:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/css/WdatePicker.css
+ERR: 非法操作:css
+
+[ 2016-10-08T18:11:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:11:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:11:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:11:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/jquery.pagination.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:14:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-10-08T18:14:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/css/info-mgt.css
+ERR: 非法操作:css
+
+[ 2016-10-08T18:14:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:14:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:14:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/css/WdatePicker.css
+ERR: 非法操作:css
+
+[ 2016-10-08T18:14:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:14:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/jquery.pagination.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:14:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:14:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/jquery.pagination.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:14:30+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-10-08T18:14:30+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/css/WdatePicker.css
+ERR: 非法操作:css
+
+[ 2016-10-08T18:14:30+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/css/info-mgt.css
+ERR: 非法操作:css
+
+[ 2016-10-08T18:14:30+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:14:30+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:14:30+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-10-08T18:14:30+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/js/jquery.pagination.js
+ERR: 非法操作:js
+
+[ 2016-10-08T19:16:32+08:00 ] 127.0.0.1 /oa/Main/dlist.html
+ERR: 非法操作:dlist
+
+[ 2016-10-08T19:17:29+08:00 ] 127.0.0.1 /oa/Main/Deptdlist.html
+ERR: 非法操作:Deptdlist
+
+[ 2016-10-08T19:24:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/js/jquery.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-08T19:24:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/js/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-08T19:24:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/js/common.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-08T19:24:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/css/base.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-08T19:24:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/css/info-reg.css
+ERR: 无法加载控制器:Css
+
+[ 2016-10-08T19:24:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/js/WdatePicker.js
+ERR: 无法加载控制器:Js
+
+[ 2016-10-08T20:29:17+08:00 ] 127.0.0.1 /oa/Dept/addOk.html
+ERR: Think\Controller:sucess方法不存在！
+
+[ 2016-10-08T20:34:05+08:00 ] 127.0.0.1 /oa/Dept/addOk.html
+ERR: 1062:Duplicate entry '行政部' for key 'dept_name'
+ [ SQL语句 ] : INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`,`dept_ctime`) VALUES ('行政部','0','50','行政部.....','2016-10-08')
+
+[ 2016-10-08T20:44:19+08:00 ] 127.0.0.1 /oa/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-10-08T20:47:37+08:00 ] 127.0.0.1 /oa/Main/info-reg.html
+ERR: 非法操作:info-reg
+
